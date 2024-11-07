@@ -2,6 +2,7 @@
 |  #  |      Title      |     C++    |     C#    |    Difficulty   | Tag  |
 |-----|---------------- | ---------------| --------------- | --------------- | -----|
 |  1  | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](cpp/001_Two_Sum.cpp) |[C#](csharp/001_Two_Sum.cs) | Easy | Array / Hash Table |
+| 56  | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [C++](cpp/056_Merge_Intervals.cpp) | [C#](csharp/056_Merge_Intervals.cs) | Medium | Array / Sort |
 | 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [C++](cpp/070_Climbing_Stairs.cpp) | [C#](csharp/070_Climbing_Stairs.cs) | Easy | Dynamic Programming |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [C++](cpp/104_Max_Depth_Binary_Tree.cpp) | [C#](csharp/206_Reversed_Linked_list.cs) | Easy | Tree |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | [C++](cpp/133_Clone_Graph.cpp) |[C#](csharp/133_Clone_Graph.cs) | Medium | Graph / DFS / BFS |
