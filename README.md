@@ -2,6 +2,7 @@
 |  #  |      Title      |     C++    |     C#    |    Difficulty   | Tag  |
 |-----|---------------- | ---------------| --------------- | --------------- | -----|
 |  1  | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](cpp/001_Two_Sum.cpp) |[C#](csharp/001_Two_Sum.cs) | Easy | Array / Hash Table |
+|  3  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [C++](cpp/003_Longest_SubString_Without_Repeating.cpp) |[C#](csharp/003_Longest_SubString_Without_Repeating.cs) | Medium | Hash Table / Two Pointers |
 | 56  | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [C++](cpp/056_Merge_Intervals.cpp) | [C#](csharp/056_Merge_Intervals.cs) | Medium | Array / Sort |
 | 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [C++](cpp/070_Climbing_Stairs.cpp) | [C#](csharp/070_Climbing_Stairs.cs) | Easy | Dynamic Programming |
 | 73  | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [C++](cpp/073_Set_Matrix_Zeros.cpp) | [C#](csharp/073_Set_Matrix_Zeros.cs) | Medium | Array |
@@ -9,3 +10,6 @@
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | [C++](cpp/133_Clone_Graph.cpp) |[C#](csharp/133_Clone_Graph.cs) | Medium | Graph / DFS / BFS |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [C++](cpp/206_Reversed_Linked_List.cpp) |[C#](csharp/206_Reversed_Linked_list.cs) | Easy | Linked List |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | [C++](cpp/371_Sum_Two_Integer.cpp) |[C#](csharp/371_Sum_Two_Integer.cs) | Medium | Binary |
+
+## Documents
+- Two Pointers - Slinding Window: https://hackmd.io/@vuquelam28/HJrCyQE2_
