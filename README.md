@@ -13,6 +13,7 @@
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [C++](cpp/100_Same_Tree.cpp) | [C#](csharp/100_Same_Tree.cs) | Easy | Tree / DFS |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [C++](cpp/104_Max_Depth_Binary_Tree.cpp) | [C#](csharp/104_Max_Depth_Binary_Tree.cs) | Easy | Tree |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | [C++](cpp/133_Clone_Graph.cpp) |[C#](csharp/133_Clone_Graph.cs) | Medium | Graph / DFS / BFS |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [C++](cpp/153_Find_Minimum_In_Sorted_Array.cpp) |[C#](csharp/153_Find_Minimum_In_Sorted_Array.cs) | Medium | Array / Binary Search |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [C++](cpp/206_Reversed_Linked_List.cpp) |[C#](csharp/206_Reversed_Linked_list.cs) | Easy | Linked List |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [C++](cpp/268_Missing_Number.cpp) |[C#](csharp/268_Missing_Number.cs) | Easy | Cyclic Sort |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/sum-of-two-integers/description/) | [C++](cpp/347_Top_K_Frequent_Elements.cpp) |[C#](csharp/347_Top_K_Frequent_Elements.cs) | Medium | Hash Table / Heap |
