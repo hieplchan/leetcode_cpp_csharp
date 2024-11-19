@@ -6,6 +6,7 @@
 |  11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [C++](cpp/011_Container_With_Most_Water.cpp) |[C#](csharp/011_Container_With_Most_Water.cs) | Medium | Array / Two Pointers |
 |  15  | [3Sum](https://leetcode.com/problems/3sum/description/) | [C++](cpp/015_3_Sum.cpp) |[C#](csharp/015_3_Sum.cs) | Medium | Array / Two Pointers |
 |  21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [C++](cpp/021_Merged_Two_Sorted_List.cpp) |[C#](csharp/021_Merged_Two_Sorted_List.cs) | Easy | Array / Linked List |
+|  23  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [C++](cpp/023_Merged_K_Sorted_List.cpp) |[C#](csharp/023_Merged_K_Sorted_List.cs) | Hard | Linked List / Heap |
 |  33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [C++](cpp/033_Search_In_Sorted_Array.cpp) |[C#](csharp/033_Search_In_Sorted_Array.cs) | Medium | Array / Binary Search |
 | 56  | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [C++](cpp/056_Merge_Intervals.cpp) | [C#](csharp/056_Merge_Intervals.cs) | Medium | Array / Sort |
 | 57  | [Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [C++](cpp/057_Insert_Interval.cpp) | [C#](csharp/057_Insert_Interval.cs) | Medium | Array / Sort |
