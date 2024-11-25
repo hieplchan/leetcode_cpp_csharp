@@ -10,6 +10,7 @@
 |  33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [C++](cpp/033_Search_In_Sorted_Array.cpp) |[C#](csharp/033_Search_In_Sorted_Array.cs) | Medium | Array / Binary Search |
 | 56  | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [C++](cpp/056_Merge_Intervals.cpp) | [C#](csharp/056_Merge_Intervals.cs) | Medium | Array / Sort |
 | 57  | [Insert Interval](https://leetcode.com/problems/insert-interval/description/) | [C++](cpp/057_Insert_Interval.cpp) | [C#](csharp/057_Insert_Interval.cs) | Medium | Array / Sort |
+| 66  | [Plus One](https://leetcode.com/problems/plus-one/description/) | [C++](cpp/066_Plus_One.cpp) | [C#](csharp/066_Plus_One.cs) | Easy | Array / Math |
 | 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [C++](cpp/070_Climbing_Stairs.cpp) | [C#](csharp/070_Climbing_Stairs.cs) | Easy | Dynamic Programming |
 | 73  | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [C++](cpp/073_Set_Matrix_Zeros.cpp) | [C#](csharp/073_Set_Matrix_Zeros.cs) | Medium | Array |
 | 78  | [Subsets](https://leetcode.com/problems/subsets/description/) | [C++](cpp/078_Subsets.cpp) | [C#](csharp/078_Subsets.cs) | Medium | Array |
