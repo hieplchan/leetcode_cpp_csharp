@@ -18,6 +18,7 @@
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [C++](cpp/121_Best_Time_Buy_Sell_Stock.cpp) | [C#](csharp/121_Best_Time_Buy_Sell_Stock.cs) | Easy | Array / Two Pointer |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | [C++](cpp/133_Clone_Graph.cpp) |[C#](csharp/133_Clone_Graph.cs) | Medium | Graph / DFS / BFS |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [C++](cpp/153_Find_Minimum_In_Sorted_Array.cpp) |[C#](csharp/153_Find_Minimum_In_Sorted_Array.cs) | Medium | Array / Binary Search |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [C++](cpp/202_Happy_Number.cpp) |[C#](csharp/202_Happy_Number.cs) | Easy | Hash |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [C++](cpp/206_Reversed_Linked_List.cpp) |[C#](csharp/206_Reversed_Linked_list.cs) | Easy | Linked List |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [C++](cpp/268_Missing_Number.cpp) |[C#](csharp/268_Missing_Number.cs) | Easy | Cyclic Sort |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | [C++](cpp/295_Find_Medium_From_Data_Stream.cpp) |[C#](csharp/295_Find_Medium_From_Data_Stream.cs) | Hard | Heap / Design |
@@ -27,3 +28,4 @@
 ## Documents
 - Two Pointers - Slinding Window: https://hackmd.io/@vuquelam28/HJrCyQE2_
 - Heap: https://www.geeksforgeeks.org/introduction-to-max-heap-data-structure/
+- Topological Sort: https://www.youtube.com/watch?v=IVhy7XrVajAv
