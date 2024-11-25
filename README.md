@@ -14,6 +14,7 @@
 | 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [C++](cpp/070_Climbing_Stairs.cpp) | [C#](csharp/070_Climbing_Stairs.cs) | Easy | Dynamic Programming |
 | 73  | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [C++](cpp/073_Set_Matrix_Zeros.cpp) | [C#](csharp/073_Set_Matrix_Zeros.cs) | Medium | Array |
 | 78  | [Subsets](https://leetcode.com/problems/subsets/description/) | [C++](cpp/078_Subsets.cpp) | [C#](csharp/078_Subsets.cs) | Medium | Array |
+| 88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [C++](cpp/088_Merged_Sorted_Array.cpp) | [C#](csharp/088_Merged_Sorted_Array.cs) | Easy | Array / Two Pointers |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [C++](cpp/100_Same_Tree.cpp) | [C#](csharp/100_Same_Tree.cs) | Easy | Tree / DFS |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [C++](cpp/104_Max_Depth_Binary_Tree.cpp) | [C#](csharp/104_Max_Depth_Binary_Tree.cs) | Easy | Tree |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [C++](cpp/121_Best_Time_Buy_Sell_Stock.cpp) | [C#](csharp/121_Best_Time_Buy_Sell_Stock.cs) | Easy | Array / Two Pointer |
