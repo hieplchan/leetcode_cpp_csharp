@@ -25,10 +25,12 @@
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [C++](cpp/206_Reversed_Linked_List.cpp) |[C#](csharp/206_Reversed_Linked_list.cs) | Easy | Linked List |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [C++](cpp/268_Missing_Number.cpp) |[C#](csharp/268_Missing_Number.cs) | Easy | Cyclic Sort |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | [C++](cpp/295_Find_Medium_From_Data_Stream.cpp) |[C#](csharp/295_Find_Medium_From_Data_Stream.cs) | Hard | Heap / Design |
+| 322 | [Coin Change](https://leetcode.com/problems/coin-change/description/) | [C++](cpp/322_Coin_Change.cpp) |[C#](csharp/322_Coin_Change.cs) | Medium | Dynamic Programming |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/sum-of-two-integers/description/) | [C++](cpp/347_Top_K_Frequent_Elements.cpp) |[C#](csharp/347_Top_K_Frequent_Elements.cs) | Medium | Hash Table / Heap |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | [C++](cpp/371_Sum_Two_Integer.cpp) |[C#](csharp/371_Sum_Two_Integer.cs) | Medium | Binary |
 
 ## Documents
 - Two Pointers - Slinding Window: https://hackmd.io/@vuquelam28/HJrCyQE2_
 - Heap: https://www.geeksforgeeks.org/introduction-to-max-heap-data-structure/
+- Dynamic Programming: https://howkteam.vn/course/cau-truc-du-lieu-va-giai-thuat/quy-hoach-dong-4394
 - Topological Sort: https://www.youtube.com/watch?v=IVhy7XrVajAv
