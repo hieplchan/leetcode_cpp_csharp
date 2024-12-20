@@ -23,6 +23,7 @@
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [C++](cpp/153_Find_Minimum_In_Sorted_Array.cpp) |[C#](csharp/153_Find_Minimum_In_Sorted_Array.cs) | Medium | Array / Binary Search |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [C++](cpp/202_Happy_Number.cpp) |[C#](csharp/202_Happy_Number.cs) | Easy | Hash |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [C++](cpp/206_Reversed_Linked_List.cpp) |[C#](csharp/206_Reversed_Linked_list.cs) | Easy | Linked List |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [C++](cpp/217_Contains_Duplicate.cpp) |[C#](csharp/217_Contains_Duplicate.cs) | Easy | Hash |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [C++](cpp/268_Missing_Number.cpp) |[C#](csharp/268_Missing_Number.cs) | Easy | Cyclic Sort |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) | [C++](cpp/295_Find_Medium_From_Data_Stream.cpp) |[C#](csharp/295_Find_Medium_From_Data_Stream.cs) | Hard | Heap / Design |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [C++](cpp/300_Longest_Increasing_Subsequence.cpp) |[C#](csharp/300_Longest_Increasing_Subsequence.cs) | Medium | Binary Search / Dynamic Programming |
@@ -35,4 +36,4 @@
 - Two Pointers - Slinding Window: https://hackmd.io/@vuquelam28/HJrCyQE2_
 - Heap: https://www.geeksforgeeks.org/introduction-to-max-heap-data-structure/
 - Dynamic Programming: https://howkteam.vn/course/cau-truc-du-lieu-va-giai-thuat/quy-hoach-dong-4394
-- Topological Sort: https://www.youtube.com/watch?v=IVhy7XrVajAv 
+- Topological Sort: https://www.youtube.com/watch?
